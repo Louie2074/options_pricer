@@ -12,7 +12,7 @@ This application retrieves the latest closing price of Bitcoin from InfluxDB.
 1. Clone the repository:
 
    ```bash
-   git clone [<repository-url>](https://github.com/Louie2074/options_pricer.git)
+   git clone https://github.com/Louie2074/options_pricer.git
    cd options_pricer_app
    ```
 2. Create a virtual environment (optional but recommended):
